@@ -3,12 +3,12 @@ import { NextResponse } from "next/server";
 export async function GET() {
   const contatos = [
     {
-      nome: "Wesley",
-      email: "wesley@uol.com"
+      nome: "isaac",
+      email: "isaac@uol.com"
     },
     {
-      nome: "Marcela",
-      email: "marcela@uol.com"
+      nome: "joao",
+      email: "joao@uol.com"
     }
   ]
 
