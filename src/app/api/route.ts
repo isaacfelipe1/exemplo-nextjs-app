@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 export async function GET() {
   const users = {
-    nome: "Wesley",
+    nome: "Isaac ",
     idade: 32
   };
 
